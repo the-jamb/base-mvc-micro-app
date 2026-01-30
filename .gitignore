@@ -1,14 +1,26 @@
-# PhpStorm
+# Environment files
+.env
 
-.idea
+# Logs
+logs/*.log
+logs/*.txt
 
-# Composer
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
-/vendor
-/.vagrant
-composer.phar
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+vendor/
+node_modules/
 
 # Cache
-
-Thumbs.db
-.DS_Store
+cache/
+temp/
+tmp/

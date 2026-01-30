@@ -1,19 +1,18 @@
 <!--suppress ALL -->
 
 <p align="center">
-    <a href="https://www.ninergames.com/" target="_blank">
-        <img src="LOGO.png" alt="Logo of Niner Games" width="300" height="300">
+    <a href="https://www.jamb.pl/" target="_blank">
+        <img src="LOGO.png" alt="Logo of Jamb" width="300" height="300">
     </a>
 </p>
 
 <p align="center">
-    <img src="TITLE.svg" width="600" height="63" alt="Jamb: Template Repository">
+    <img src="TITLE.svg" width="600" height="63" alt="Jamb: Base MVC Micro-app">
 </p>
 
 <hr>
 
-This is a template repository that contains information mostly on technical stuff etc. Feel free to rip off this  part 
-(or any other in this document) and replace it with actual content about your repository.
+Base PHP application that implements MVC architectural pattern in core PHP without any framework in the back.
 
 - [General tools](#general-tools)
   * [Passwords](#passwords)
