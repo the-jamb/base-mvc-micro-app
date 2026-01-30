@@ -1,0 +1,14 @@
+# PhpStorm
+
+.idea
+
+# Composer
+
+/vendor
+/.vagrant
+composer.phar
+
+# Cache
+
+Thumbs.db
+.DS_Store
