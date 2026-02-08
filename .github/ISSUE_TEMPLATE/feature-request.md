@@ -1,22 +1,22 @@
 ---
 name: Feature request
 about: Some new functionality
-title: 
-type: "feature"
-labels: feature
+type: feature
+title: ''
+labels: ''
 assignees: mrfatguy
 
 ---
 
 Repeated title or possibly a summary of the description.
 
-## Narrative
+Narrative:
 
 - **As a** who
 - **I want** do
 - **To** achieve
 
-## Acceptance Criteria
+Acceptance Criteria:
 
 - **Given** what
 - **When** what
